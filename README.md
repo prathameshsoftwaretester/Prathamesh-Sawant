@@ -4,7 +4,7 @@
 [![](https://visitcount.itsvg.in/api?id=prathamesh0907&icon=2&color=1)](https://visitcount.itsvg.in)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=prathamesh0907&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+[![trophy](https://github-profile-trophy.vercel.app/?username=prathamesh0907)](https://github.com/ryo-ma/github-profile-trophy)
 
 🔭 I’m currently working on an E-commerce Project<br>👯 I’m looking to collaborate on API Testing, Selenium, Automation Frameworks<br>🌱 I’m currently learning API Testing<br>💬 Ask me about Selenium, Manual Testing, Core Java<br>📝 I also write articles on medium.com/@prathameshvs2000 <br>📫 How to reach me prathameshvs2000@gmail.com<br>📄 Know about my experiences www.linkedin.com/in/prathameshvsawant<br>⚡ Fun fact: The term "bug" in software originated from an actual insect Grace Hopper and her team found in a computer.
 
