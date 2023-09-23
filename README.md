@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Prathamesh Sawant</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+<h3 align="center">A passionate Software Tester from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathamesh0907&label=Profile%20views&color=0e75b6&style=flat" alt="prathamesh0907" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prathamesh0907" alt="prathamesh0907" /></a> </p>
 
-- 🔭 I’m currently working on **Chatbot**
+- 🔭 I’m currently working on **E-commerce Project**
 
-- 🌱 I’m currently learning **MongoDB**
+- 🌱 I’m currently learning **API Testing**
 
-- 💬 Ask me about **ReactJS**
+- 💬 Ask me about **Selenium**
 
 - 📫 How to reach me **prathameshvs2000@gmail.com**
 
