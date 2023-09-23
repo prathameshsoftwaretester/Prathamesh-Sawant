@@ -1,4 +1,5 @@
-<bold>Hi 👋, I'm Prathamesh Sawant, a Software Tester from India<bold><br><br>🔭 I’m currently working on E-commerce Project<br>👯 I’m looking to collaborate on API Testing, Selenium, Automation Frameworks<br>🌱 I’m currently learning API Testing<br>💬 Ask me about Selenium, Manual Testing, Core Java<br>📝 I also write articles on medium.com/@prathameshvs2000 <br>📫 How to reach me prathameshvs2000@gmail.com<br>📄 Know about my experiences www.linkedin.com/in/prathameshvsawant<br>⚡ Fun fact: The term "bug" in software originated from an actual insect Grace Hopper and her team found in a computer.
+<h1 align="center">Hi 👋, I'm Prathamesh Sawant</h1>
+<h3 align="center">A Passionate Software Tester from India</h3><br><br>🔭 I’m currently working on an E-commerce Project<br>👯 I’m looking to collaborate on API Testing, Selenium, Automation Frameworks<br>🌱 I’m currently learning API Testing<br>💬 Ask me about Selenium, Manual Testing, Core Java<br>📝 I also write articles on medium.com/@prathameshvs2000 <br>📫 How to reach me prathameshvs2000@gmail.com<br>📄 Know about my experiences www.linkedin.com/in/prathameshvsawant<br>⚡ Fun fact: The term "bug" in software originated from an actual insect Grace Hopper and her team found in a computer.
 
 
 ## 🌐 Socials:
