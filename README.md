@@ -18,9 +18,9 @@
 <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=prathameshvsawant&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=prathameshvsawant&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=prathameshvsawant&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=prathameshsoftwaretester&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=prathameshsoftwaretester&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=prathameshsoftwaretester&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ![Dino](https://github.com/prathameshvsawant/File-/blob/main/data/4ff07986208593.5d9a654e92f36.gif)
 
